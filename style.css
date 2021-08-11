@@ -1,0 +1,13 @@
+.bg{
+    background-color: azure;
+}
+
+.name{
+    font-style: italic;
+}
+
+.flex-col:hover{
+    transition: translateY(-20PX);
+    cursor:pointer;
+}
+
